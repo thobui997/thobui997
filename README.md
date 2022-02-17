@@ -5,6 +5,8 @@
 ### Programming Language
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python)
+![Typescript](https://img.shields.io/badge/-Typescript-%231572B6?style=flat-square&logo=typescript&logoColor=fff)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
 ### Backend
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=Node.js)
@@ -21,7 +23,7 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=postgresql)
 ![MySQL](http://img.shields.io/badge/-MySQL-%23ffffff?style=flat-square&logo=mysql)
 
 #### Others
@@ -34,3 +36,8 @@
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![MacOS](http://img.shields.io/badge/-MacOS-A81D33?style=flat-square&logo=macos&logoColor=ffffff)
+
+![ThoBT's GitHub stats](https://github-readme-stats.vercel.app/api?username=thor-bui&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thor-bui&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
