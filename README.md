@@ -10,11 +10,13 @@
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python)
 ![Typescript](https://img.shields.io/badge/-Typescript-%231572B6?style=flat-square&logo=typescript&logoColor=fff)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![PHP](http://img.shields.io/badge/-PHP-007396?style=flat-square&logo=php&logoColor=ffffff)
 
 ### Backend
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat-square&logo=laravel)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
