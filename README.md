@@ -2,7 +2,7 @@
 
 # Hi, I'm Tho 👋
 
-### Frontend developer from Vietnam
+### Fullstack developer from Vietnam
 
 </div>
 
