@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tho</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Profile%20views-0%20%2F%20today-0e75b6?style=flat-square&logo=github" alt="Profile views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thobui997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/GitHub%20Trophies-%E2%9C%93-181717?style=flat-square&logo=github" alt="GitHub Trophies" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thobui997" alt="GitHub trophy" /></a> </p>
 
 ### Programming Language
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -50,9 +44,9 @@
 ![MacOS](http://img.shields.io/badge/-MacOS-A81D33?style=flat-square&logo=macos&logoColor=ffffff)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thobui997&show_icons=true&locale=en&layout=compact" alt="thobui997" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thobui997&show_icons=true&locale=en&layout=compact" alt="Top languages chart" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thobui997&show_icons=true&locale=en" alt="thobui997" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thobui997&show_icons=true&locale=en" alt="GitHub stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thobui997&" alt="thobui997" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thobui997&" alt="GitHub streak stats" /></p>
 
